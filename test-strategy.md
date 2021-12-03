@@ -50,8 +50,8 @@ Correcciones: Cambiar los colores de cada mensaje asi como se solicito
       lastResult.textContent = '!!!Pérdistes!!!';
       lastResult.style.backgroundColor = 'black';
       lowOrHi.textContent = '';
-      setGameOver();
-	  
+      setGameOver(); 
+	   
 	 
 	  
     } else if(guessCount === ATTEMPS) {

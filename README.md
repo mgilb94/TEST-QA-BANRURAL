@@ -27,3 +27,4 @@ Como entregables debe presentar lo siguiente:
 * El plan de ataque test-strategy.md
 ## Recursos:
 * Event Target: https://developer.mozilla.org/es/docs/Web/API/EventTarget
+ 
