@@ -37,7 +37,7 @@ Correcciones: agregar un rango de 1 al 100 en la funcion random y que sean enter
 
 
 	if(guessCount === 1), if(userGuess === randomNumber), else if(guessCount === ATTEMPS) dentro de las sentencias esta escrito 3 signos ===
-Correcciones: Eliminar e1 igual
+Correcciones: Eliminar el igual
 
 
  Al momento de mostrar se debe mostrarse el mensaje de color rojo: "!!!Pérdistes!!!",
